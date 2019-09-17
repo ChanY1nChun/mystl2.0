@@ -1,0 +1,3 @@
+/Users/chenyanjun/CLionProjects/MyTinySTL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenyanjun/CLionProjects/MyTinySTL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenyanjun/CLionProjects/MyTinySTL/cmake-build-debug/CMakeFiles/MyTinySTL.dir
